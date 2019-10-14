@@ -1,0 +1,181 @@
+.container-fluid {
+background-color:#ff4c68;
+color:white;
+height:100%;
+padding: 3% 15% 7%;
+background-image:linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("invernessunsplash.jpg");
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height:600px;
+}
+
+hover:nav {
+  text-decoration: underline;
+}
+
+h1 {
+  color:black;
+  font-weight:900;
+  size: 2.5rem;
+  line height:1.5;
+  border: white solid 1px black;
+
+}
+
+h2 {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.nav-link {
+  color:inherit;
+
+}
+
+.big {
+  font-weight:900;
+  font-size:3.5rem;
+  font-family:'Montserrat-Black', sans-serif;
+      line-height: 1.5;
+
+    }
+
+}
+
+header {
+
+padding-bottom:10px;
+color:#ff4c68;
+}
+
+#title {
+  font-family:montserrat;
+}
+
+
+
+
+.table>tbody>tr>td,
+.table>tbody>tr>th {
+border-top: none;
+}
+#features {
+  text-align:center;
+  border:none;
+  padding: 100px 100px;
+}
+
+h3 {
+  padding:10px;
+}
+
+.fa-check-circle {
+  color:#ef8172;
+}
+
+.fa-check-circle:hover {
+  color:#ff4c68;
+}
+
+.fa-bullseye {
+    color:#ef8172;
+}
+
+.fa-bullseye:hover {
+  color:#ff4c68;
+}
+
+.fa-heart {
+  color:#ef8172;
+}
+
+.fa-heart:hover {
+  color:#ff4c68;
+}
+
+/* testimonials */
+
+#testimonials{
+  background-color:grey;
+  color:black;
+    text-align: center;
+    padding-top:150px;
+    padding-bottom:150px;
+    padding:40px;
+  font-style: italic;
+}
+
+.testimonialImage {
+  border-radius:100%;
+  width:20%;
+  align-content: center;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+#press {
+background-color:#ef8172;
+padding-bottom:150px;
+  text-align: center;
+
+}
+
+.presslogo {
+width:10%;
+margin: 0 20px;
+}
+
+.pricing {
+  text-align: center;
+  padding-top:75px;
+}
+
+.simpleandaffordable {
+  text-align: center;
+}
+
+.card {
+  text-align:center;
+  padding:10px;
+}
+
+.signup {
+  background-color: red;
+  color:white;
+  border:none;
+  border-radius:5px;
+  padding:5px;
+  text-align:center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+button {
+  text-align: center;
+   color:black;
+   background-color:inherit;
+   border:black solid 1px;
+}
+
+.socialmedia {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+
+  display: inline-block;
+}
+
+footer {
+  padding: 20px 20px;
+}
